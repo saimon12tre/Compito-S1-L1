@@ -1,0 +1,78 @@
+128.1.6.5/12 Classe B (primi 2 ottetti per la rete)
+
+11111111.11110000.00000000.00000000
+
+256 - 240 = 16
+
+IP Net: 128.0.0.0
+Gateway: 128.0.0.1
+Broadcast: 128.15.255.255
+
+8etti rete: 2 (9 bit)
+8etti host: 2(12 bit)
+
+
+126.5.4.3/9 Classe A (primo ottetto per la rete)
+
+11111111.10000000.00000000.00000000
+
+256 - 128 = 128
+
+IP Net: 126.0.0.0
+Gateway: 126.0.0.1
+Broadcast: 126.0.127.255
+
+8etti rete: 2 (9 bit)
+8etti host: 2(23 bit)
+
+
+200.1.9.8/24 Classe C (primi 3 ottetti per la rete)
+
+11111111.11111111.11111111.00000000
+
+IP Net: 200.1.9.0
+Gateway: 200.1.9.1
+Broadcast: 200.1.9.255
+
+8etti rete: 3 (prima 24 bit)
+8etti host: 1(prima 8 bit)
+
+
+172.16.0.4/16 Classe B (primi 2 ottetti per la rete)
+
+11111111.11111111.00000000.00000000
+
+IP Net: 172.16.0.0
+Gateway: 172.16.0.1
+Broadcast: 172.16.255.255
+
+8etti rete: 2 (16 bit)
+8etti host: 2 (16 bit)
+
+
+200.1.2.3/24 Classe C (primi 3 ottetti per la rete)
+
+11111111.11111111.11111111.00000000
+
+IP Net: 200.1.2.0
+Gateway: 200.1.2.1
+Broadcast: 200.1.2.255
+
+8etti rete: 3 (24 bit)
+8etti host: 1 (8 bit)
+
+
+192.192.1.1/22 Classe C (primi 3 ottetti per la rete)
+
+11111111.11111111.11111100.00000000
+
+256 - 252 = 4
+
+IP Net: 192.192.0.0
+Gateway: 192.192.0.1
+Broadcast: 192.192.3.255
+
+8etti rete: 3 (22 bit)
+8etti host: 1 (10 bit)
+
+
