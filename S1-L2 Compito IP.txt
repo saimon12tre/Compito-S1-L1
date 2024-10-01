@@ -20,7 +20,7 @@ Broadcast: 128.15.255.255
 
 IP Net: 126.0.0.0
 Gateway: 126.0.0.1
-Broadcast: 126.0.127.255
+Broadcast: 126.128.255.255
 
 8etti rete: 2 (9 bit)
 8etti host: 2(23 bit)
